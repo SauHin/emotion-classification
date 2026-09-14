@@ -31,7 +31,7 @@ by McNemar's Test with p-value = 0.0066.
 
 ## Demo
 
-Youtube link: [Presentation & App Demo Video](https://www.youtube.com/watch?v=1jC9Udfpm98)
+Youtube Link: [Presentation & App Demo Video](https://www.youtube.com/watch?v=1jC9Udfpm98)
 
 
 ---
